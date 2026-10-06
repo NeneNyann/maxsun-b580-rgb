@@ -1,0 +1,5 @@
+/target/
+/driver/*.sys
+/driver/*.inf
+/driver/*.cat
+/driver/SHA256SUMS.txt
